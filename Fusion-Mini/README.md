@@ -2,7 +2,7 @@
 
 Click on a folder above for more info. 
 
-Example want more code stuff like code folder.
+Example want more code stuff look in code folder.
 
 
 # For user manual see 
