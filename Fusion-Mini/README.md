@@ -1,4 +1,4 @@
-# This directory contains stuff if you need if you wanna DIY a Mini
+# This directory contains stuff you need if you wanna DIY a Mini
 
 Click on a folder above for more info. 
 
