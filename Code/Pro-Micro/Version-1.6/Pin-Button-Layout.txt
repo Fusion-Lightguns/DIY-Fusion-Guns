@@ -1,15 +1,15 @@
-Pro Micro Pin & Button Layout
+# Pro Micro Pin & Button Layout
 
 Pin #-- On Gun -- Keyboard/Mouse Button-- In Code
 
 ___TRIGGERS & CALIBRATE____
 10 ---- Trigger -------- Mouse Left ----- Trigger
-16 ---- Front Left----- Mouse Right ---- Reload
+8 --- Front Trigger ------ Escape ------- B Button
 14 ---- Front Button --- F4 ----------- Calibrate
 
 ___BUTTONS ON FRONT GRIP___
 9 --- Front Right ------- Enter ---------- A Button
-8 --- Front Trigger ------ Escape ------- B Button
+16 ---- Front Left----- Mouse Right ---- Reload
 7 --- Back Left -------- Number 1  ----- Start
 6 --- Back Right ------- Number 5  ------- Select
 
