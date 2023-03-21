@@ -4,14 +4,14 @@ Pin #-- On Gun -- Keyboard/Mouse Button-- In Code
 
 ___TRIGGERS & CALIBRATE____
 10 ---- Trigger -------- Mouse Left ----- Trigger
-16 ---- 2nd Trigger----- Mouse Right ---- Reload
+16 ---- Front Left----- Mouse Right ---- Reload
 14 ---- Front Button --- F4 ----------- Calibrate
 
 ___BUTTONS ON FRONT GRIP___
-9 --- Front Left ------- Tab ---------- A Button
-8 --- Front Right ------ Escape ------- B Button
-7 --- Back Left -------- Left Alt ----- Start
-6 --- Back Right ------- Return ------- Select
+9 --- Front Right ------- Enter ---------- A Button
+8 --- Front Trigger ------ Escape ------- B Button
+7 --- Back Left -------- Number 1  ----- Start
+6 --- Back Right ------- Number 5  ------- Select
 
 
 ____DPAD BUTTONS____
