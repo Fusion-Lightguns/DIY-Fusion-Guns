@@ -1,5 +1,7 @@
 # Build Instructions for Fusion Elite 
 
+This model is no longer used. Was not to happy about my painting nerf gun lol.
+
 # Volt Nerf Gun Follow These Instructions
 
     - Pull gun apart carefully.
