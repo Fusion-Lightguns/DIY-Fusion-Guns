@@ -8,7 +8,7 @@ FT2 is a Fusion gun made from a Terminator 2 gun housing//shell
 
 # Tools/Stuff You Need:
 
-     - A T2 Gun or the housint to one, A phillps screwdriver, a Pro Micro, a DFRobot(or clone) camera, some push buttons, a micro switch, something to drill holes and sand with (I use a dremel), a micro usb data cable, some wires, electric tape, soldering iron, and solder.
+     - A T2 Gun or the housint to one, A phillps screwdriver, a Pro Micro, a DFRobot(or clone) camera, some push buttons, a micro switch, something to drill holes and sand with (I use a dremel), a 3way micro usb data cable, some wires, electric tape, a small diode, soldering iron, and solder. (See parts in this DIY Github)
 
 # Suggested Additional Tools/Stuff:
 
@@ -40,9 +40,57 @@ FT2 is a Fusion gun made from a Terminator 2 gun housing//shell
     - Grab Left Side of gun/housing 
     
     - Grab your Micro Switch and the orginal trigger. Go to where they had trigger button. Drill/sand thier spot for your micro switch.(Refer to your pic earlier for old trigger spot
+    
+    - Solder "lead wore" and "lead ground" to micro switch. These wires are so you dont have to solder in gun housing .
+    
+    - Tape or use heat shrink on micro switch connections. YOU HAVE TO DO THIS!
 
     - Glue/wedge your micro switch in Left side where thier trigger clicked at. Test this by putting trigger in and clicking it. (My pics below will help here)  
     
-    WORK IN PROGRESS FINIHSING ASAP
+    - Solder a "lead wire " & "lead ground" to all your buttons. 
     
-    - 
+    - Insert all your buttons into both sides of gun housing. Add some glue if necesary
+
+    - Grab your your Pro Micro & flash it. See code in this main part of this DIY github.
+    
+    - Grab your Cord check if it will run ok. Drill/sand out spots if necessary.
+    
+    - If you are using a new motor grab it and check where your gonns put it at. (Look at pics below for where pro micro and everything go)
+    
+    - Prepare your splitter by cutting off one charger spot. Cut just the head off another. Make sure the keep the micro usb that does data !!
+    
+    - Open up the wire that you cut head off of and find negative and positive .
+    
+    - Plug in soldering iron and grab a new cup of coffee lol
+    
+    - Solder the positive to the motor . 
+    
+    - Solder negative side to the trigger positive with a wire . (If you are not using orginal motor go negative to diode to trigger)
+    
+    - Solder from any negative button to the negative from the head you cut .
+    
+    - Wire everything to pro micro . 
+    
+            WIRING TIPS 
+            
+            - Run all ground from left side to one wire . Do same one right and wire those together one one ground 
+            
+            - Use male headers for DFRobot camera hookup.
+            
+            - Check Pinout vs where you want your buttons.
+            
+            -  Be patient and careful lol lol.
+            
+            - All buttons need to on ground and on Pro Micro
+    
+    - Mount Pro micro 
+    
+    - Plug in Camera
+    
+    - Test "UP" on camera 
+    
+    - Test everything. Camera buttons everything 
+   
+    - Close it back up. CAREFULLY!!
+    
+    - Test again . 
