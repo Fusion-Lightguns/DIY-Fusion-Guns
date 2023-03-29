@@ -94,3 +94,51 @@ FT2 is a Fusion gun made from a Terminator 2 gun housing//shell
     - Close it back up. CAREFULLY!!
     
     - Test again . 
+
+  # CONGRATULATIONS !!! You did it!!
+    
+  # Afterwards Setup
+  
+    - Setup LED's as follows. 
+    
+        - top left, top right, bottom left, bottom right
+        
+    - Open something on pc/linux device/whatever that you can see the mouse cursor.
+    
+    - Calibrate as follows. 
+    
+        - Try to set/stand level with screen center or wherever your gonna play from.
+    
+        - Press Calibrate
+        
+        - Squeeze Trigger
+        
+        - Shoot Center of Screen (as accurately as possible)
+        
+        - Move Gun up/down till centered in sights then squeeze trigger
+        
+        - Move Gun left/right till centered then squeeze trigger
+        
+        - Thats it. Calibration complete.
+        
+        - If calibrate doesnt seem good, try the following.
+        
+            - Check the tilt of gun when you are calibrating 
+            
+            - Make sure thiers no other leds near by
+            
+    - If calibration doesnt hold/stay on power off of pc. do the following 
+    
+        - Calibrate gun
+        
+        - Press calibrate 
+        
+        - Press Start & Select at the same time.
+        
+# End Notes.
+
+    - I hope you enjoy. 
+    
+    - Feel free to join Fusion Lightguns User Group on facebook for help
+    
+
