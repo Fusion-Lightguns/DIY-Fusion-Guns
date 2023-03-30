@@ -8,7 +8,7 @@ FT2 is a Fusion gun made from a Terminator 2 gun housing//shell
 
 # Tools/Stuff You Need:
 
-     - A T2 Gun or the housint to one, A phillps screwdriver, a Pro Micro, a DFRobot(or clone) camera, some push buttons, a micro switch, something to drill holes and sand with (I use a dremel), a 3way micro usb data cable, some wires, electric tape, a small diode, soldering iron, and solder. (See parts in this DIY Github)
+     - A T2 Gun or the housint to one, A phillps screwdriver, a Pro Micro, a DFRobot(or clone) camera, some push buttons, a micro switch, something to drill holes and sand with (I use a dremel), a 3way micro usb data cable, some wires, electric tape,  a IR LED setup a small diode, soldering iron, and solder. (See parts in this DIY Github)
 
 # Suggested Additional Tools/Stuff:
 
