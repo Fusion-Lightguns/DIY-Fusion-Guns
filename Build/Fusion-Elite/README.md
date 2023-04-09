@@ -47,5 +47,6 @@ This model is no longer used. Was not to happy about my painting nerf gun lol.
 
 # Pin Outs 
 
-![Pinout-Pro-Micro](https://user-images.githubusercontent.com/118452807/218339559-99507b10-6cc6-4cd1-a7ec-387f53007079.png)
 
+![Pinout-Pro-Micro-P1](https://user-images.githubusercontent.com/118452807/230752161-7fb7241f-a232-4fb5-af51-8e0ce44a32dc.png)
+![Pinout-Pro-Micro-P2](https://user-images.githubusercontent.com/118452807/230752163-0fdd821d-c97a-46a2-a29f-c6baa75ac4a3.png)
