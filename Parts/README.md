@@ -4,8 +4,9 @@
 https://www.dfrobot.com/product-1088.html
 
 
-# 16MM Buttons 7 of em.
+# Buttons
 
+16MM
 https://amzn.to/3UPP5Zm
 
 # With IR LEDS you have 2 chooses. USB Bar or Loose. 
@@ -25,17 +26,13 @@ https://www.aliexpress.us/item/3256804395507847.html?spm=a2g0o.productlist.0.0.7
 https://www.aliexpress.us/item/3256804336848130.html?spm=a2g0o.productlist.0.0.74142997Npr3Ft&algo_pvid=a6ff1056-0c6b-4b88-a870-7dcb62c7b177&algo_exp_id=a6ff10![Uploading DIY_Parts_2-6-23.jpg…]()
 56-0c6b-4b88-a870-7dcb62c7b177-3&pdp_ext_f=%7B%22sku_id%22%3A%2212000030375085780%22%7D&pdp_npi=2%40dis%21USD%2118.0%2116.74%21%21%21%21%21%40210318be16698558993931001ebaed%2112000030375085780%21sea&curPageLogUid=wxQ0Z2155E0G
 
-# MicroUSB power supply with switch (optional)
+# MicroUSB Cable Pack
 
-https://amzn.to/3iOo7Ui
+https://www.amazon.com/dp/B096G6C257?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-# Dpad Board 
+# Mini Joystick
 
-https://www.amazon.com/SchmalzTech-Electronic-Circuit-Prototype-ST-PERF-1-1/dp/B09QMNV6J1/ref=sr_1_3?crid=BK8NMQMHNO41&keywords=1+inch+perf+board&qid=1675439887&sprefix=1+inch+perf+%2Caps%2C881&sr=8-3
-
-# 3D Printed Dpad 
-
-https://www.thingiverse.com/thing:5838903
+https://www.amazon.com/DAOKI-Direction-Navigation-Independent-5-Channel/dp/B07XB2245Q/ref=rvi_sccl_18/138-9298012-7358203?pd_rd_w=HtNBQ&content-id=amzn1.sym.f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_p=f5690a4d-f2bb-45d9-9d1b-736fee412437&pf_rd_r=ZXRR03ZBRH299PN3TR3K&pd_rd_wg=rQxYA&pd_rd_r=2e655f56-4de4-4bee-b706-8e6171b971d0&pd_rd_i=B07XB2245Q&psc=1
 
 
 # Micro Processors
