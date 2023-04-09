@@ -1,5 +1,3 @@
-![DIY_Parts_2-6-23](https://user-images.githubusercontent.com/118452807/217100652-2e49baa1-14ba-45c7-896e-e2159b427f7a.jpg)
-
 
 # Postioning Camera $25
 
