@@ -10,4 +10,4 @@ A shotgun Lightgun made from a Cabelas PS3 hosuing .
 
   - Removeable sight and stock. 
 
-# Unfinished ATM will Update when i finish
+# Unfinished ATM will Update when I finish
