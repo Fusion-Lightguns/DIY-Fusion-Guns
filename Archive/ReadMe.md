@@ -6,4 +6,4 @@
 
    - For records
    
-   - For  the code gnomes. They code better if they can see the odl code easier lol .
+   - For  the code gnomes. They code better if they can see the old code easier lol .
