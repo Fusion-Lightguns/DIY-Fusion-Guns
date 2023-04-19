@@ -1,4 +1,4 @@
-# DIY Zipper All N One 
+# DIY Zipped All N One 
 
 # How To Use 
 
