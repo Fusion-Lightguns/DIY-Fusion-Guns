@@ -4,8 +4,6 @@
        
        - Click on folder for more info. Examples click Build to learn how to Build a Lightgun, Code to code a Lightgun etc.
 
-       - *COMING SOON* Click on Zips folder for everything all n one for each gun.
-
        - Fusion Lightguns is NOT responible for failed or damaged DIY projects or parts. Such as gun housing, pro micros, buttons, cords, etc.
 
 
